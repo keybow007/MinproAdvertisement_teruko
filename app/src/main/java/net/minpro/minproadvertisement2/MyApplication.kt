@@ -12,8 +12,9 @@ class MyApplication: Application() {
         super.onCreate()
 
         //カスタムフォント
+        //拡張子（ttf/otf)
         CalligraphyConfig.initDefault(CalligraphyConfig.Builder()
-                .setDefaultFontPath("fonts/font.ttf")
+                .setDefaultFontPath("fonts/font.otf")
                 .setFontAttrId(R.attr.fontPath)
                 .build())
 

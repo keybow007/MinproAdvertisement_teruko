@@ -1,22 +1,148 @@
 <resources>
     <string name="app_name">選挙運動2</string>
 
+    <string name="after_speciality">で有名な、</string>
+    <string name="after_place">のみなさん、こんにちは。みんなのプログラミング by Telulu LLCともうします。</string>
+
+
     <string-array name="message_list">
-        <item>みんなのプログラミング by Telulu LLCともうします。
-        パソコン１台あれば、だれでもスマホアプリがつくれるようになる、
-        プログラミング講座「みんプロ式」をやっています。
-        どうぞ、お気軽にお問い合わせください。よろしくお願い致します。</item>
-        <item>パソコン１台あれば、だれでもスマホアプリがつくれるようになる、
-            プログラミング講座「みんプロ式(しき)」は、
-            どんな質問でもわかるまで、ていねいにサポートしますので、
-            お子さまから主婦・シニアの方まで、安心して受講いただけます。
-            どうぞ、お気軽にお問い合わせください。よろしくおねがいいたします。</item>
+        <item> 早朝５時半から受講できる、日本で一番朝早いスマホアプリプログラミング講座「みんプロ式」をやっています。
+        どんな質問でも、わかるまで、ていねいにサポートしますので、お子さまから主婦・シニアの方まで安心して受講して頂けます。
+            無料体験もありますので、どうぞお気軽にお問い合わせください。よろしくお願い致します。</item>
+        <item> パソコン１台あれば、だれでもスマホアプリがつくれるようになるプログラミング講座「みんプロ式」をやっています。
+        世界のスマホの約７割という圧倒的なシェアを誇るAndroidアプリの開発力と、今最も注目のプログラミング言語・Kotlinの基礎力を、ゼロから身につけることができます。
+            どうぞ、お気軽にお問い合わせください。よろしくお願い致します。</item>
+        <item> パソコン１台あれば、だれでもスマホアプリがつくれるようになるプログラミング講座「みんプロ式」をやっています。
+        プログラミングは、仕事に役立つスキルだけではなく、２次元のモノづくりを通じて、創造力や自己肯定感も伸ばすことができます。
+        無料体験もありますので、どうぞお気軽にお問い合わせください。よろしくお願い致します。
+        </item>
+        <item> パソコン１台あれば、だれでもスマホアプリがつくれるようになるプログラミング講座「みんプロ式」をやっています。
+        「みんプロ式」は、将来役に立つスキルだけでなく、２次元のモノづくりを通じて、お子様の自己肯定感醸成もサポートするプログラミング講座です。
+        無料体験もありますので、どうぞお気軽にお問い合わせください。よろしくお願い致します。
+        </item>
+        <item> パソコン１台あれば、だれでもスマホアプリがつくれるようになるプログラミング講座「みんプロ式」をやっています。
+        どんな質問でも、わかるまで、ていねいにサポートしますので、お子さまから主婦・シニアの方まで、安心して受講いただけます。
+            どうぞ、お気軽にお問い合わせください。よろしくお願い致します。</item>
+        <item> パソコン１台あれば、だれでもスマホアプリがつくれるようになるプログラミング講座「みんプロ式」をやっています。
+        グループ・マンツーマンコースは無料体験、動画配信コースは３０日間返金保証付きですので、１円のリスクも取らずに、はじめて頂くことができます。
+            どうぞ、お気軽にお問い合わせください。よろしくお願い致します。
+        </item>
+        <item>
+            山登りをやったことのない人が、いきなり富士山に登ることはできませんが、「みんプロ式」のスモールステップ型カリキュラムなら、
+            パソコン１台あれば、プログラミングを全くやったことがない人でも、スマホアプリが作れるようになります。
+            どうぞ、お気軽にお問い合わせください。よろしくお願い致します。
+        </item>
     </string-array>
 
-    <string name="message">みなさん、こんにちは。
-        みんなのプログラミング by Telulu LLCともうします。
-        パソコン１台あれば、だれでもスマホアプリがつくれるようになる、
-        プログラミング講座「みんプロ式」をやっています。
-        どうぞ、お気軽にお問い合わせください。よろしくお願い致します。
-    </string>
+
+
+    <!-- https://stackoverflow.com/questions/6945678/storing-r-drawable-ids-in-xml-array -->
+    <integer-array name="background_list">
+        <item>@drawable/back001</item>
+        <item>@drawable/back002</item>
+        <item>@drawable/back003</item>
+        <item>@drawable/back004</item>
+        <item>@drawable/back005</item>
+        <item>@drawable/back006</item>
+        <item>@drawable/back007</item>
+        <item>@drawable/back008</item>
+        <item>@drawable/back009</item>
+        <item>@drawable/back010</item>
+        <item>@drawable/back011</item>
+        <item>@drawable/back012</item>
+        <item>@drawable/back013</item>
+        <item>@drawable/back014</item>
+        <item>@drawable/back015</item>
+        <item>@drawable/back016</item>
+        <item>@drawable/back017</item>
+        <item>@drawable/back018</item>
+        <item>@drawable/back019</item>
+        <item>@drawable/back020</item>
+        <item>@drawable/back021</item>
+        <item>@drawable/back022</item>
+        <item>@drawable/back023</item>
+        <item>@drawable/back024</item>
+        <item>@drawable/back025</item>
+        <item>@drawable/back026</item>
+        <item>@drawable/back027</item>
+        <item>@drawable/back028</item>
+        <item>@drawable/back029</item>
+        <item>@drawable/back030</item>
+        <item>@drawable/back031</item>
+        <item>@drawable/back032</item>
+        <item>@drawable/back033</item>
+        <item>@drawable/back034</item>
+        <item>@drawable/back035</item>
+        <item>@drawable/back036</item>
+        <item>@drawable/back037</item>
+        <item>@drawable/back038</item>
+        <item>@drawable/back039</item>
+        <item>@drawable/back040</item>
+        <item>@drawable/back041</item>
+        <item>@drawable/back042</item>
+        <item>@drawable/back043</item>
+        <item>@drawable/back044</item>
+        <item>@drawable/back045</item>
+        <item>@drawable/back046</item>
+        <item>@drawable/back047</item>
+        <item>@drawable/back048</item>
+        <item>@drawable/back049</item>
+        <item>@drawable/back050</item>
+        <item>@drawable/back051</item>
+        <item>@drawable/back052</item>
+        <item>@drawable/back053</item>
+        <item>@drawable/back054</item>
+        <item>@drawable/back055</item>
+        <item>@drawable/back056</item>
+        <item>@drawable/back057</item>
+        <item>@drawable/back058</item>
+        <item>@drawable/back059</item>
+        <item>@drawable/back060</item>
+        <item>@drawable/back061</item>
+        <item>@drawable/back062</item>
+        <item>@drawable/back063</item>
+        <item>@drawable/back064</item>
+        <item>@drawable/back065</item>
+        <item>@drawable/back066</item>
+        <item>@drawable/back067</item>
+        <item>@drawable/back068</item>
+        <item>@drawable/back069</item>
+        <item>@drawable/back070</item>
+        <item>@drawable/back071</item>
+        <item>@drawable/back072</item>
+        <item>@drawable/back073</item>
+        <item>@drawable/back074</item>
+        <item>@drawable/back075</item>
+        <item>@drawable/back076</item>
+        <item>@drawable/back077</item>
+        <item>@drawable/back078</item>
+        <item>@drawable/back079</item>
+        <item>@drawable/back080</item>
+        <item>@drawable/back081</item>
+        <item>@drawable/back082</item>
+        <item>@drawable/back083</item>
+        <item>@drawable/back084</item>
+        <item>@drawable/back085</item>
+        <item>@drawable/back086</item>
+        <item>@drawable/back087</item>
+        <item>@drawable/back088</item>
+        <item>@drawable/back089</item>
+        <item>@drawable/back090</item>
+        <item>@drawable/back091</item>
+        <item>@drawable/back092</item>
+        <item>@drawable/back093</item>
+        <item>@drawable/back094</item>
+        <item>@drawable/back095</item>
+        <item>@drawable/back096</item>
+        <item>@drawable/back097</item>
+        <item>@drawable/back098</item>
+        <item>@drawable/back099</item>
+        <item>@drawable/back100</item>
+    </integer-array>
+
+
+
+
+
+
 </resources>
